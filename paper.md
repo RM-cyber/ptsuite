@@ -1,7 +1,7 @@
 ---
 title: 'ptsuite: An R-package for Fast Tail Index Estimation'
 tags:
-  - R
+  - r
   - power law distributions
   - fat tailed distributions
   - heavy tailed distributions
