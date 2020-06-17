@@ -33,7 +33,7 @@ bibliography: paper.bib
 
 # Summary
 
-Power law distributions, in particular Pareto distributions, describe data across diverse areas of study such as physics, astronomy, biology, economics and the social sciences. Real-world examples include distribution of wealth, word frequency in a given text, population in a city, stock market returns. In the present “Big Data” era, it is essential for programs to be optimized for speed and have the ability to handle large data sets. In particular, there are applications in genetics involving large data sets where power-law distributions describe network connectivity [@Zhang:2005]. We found some of the existing tail estimation packages in R are not optimized for speed especially when dealing with a large data set. The R-package `ptsuite` was developed to estimate the tail index for such (large) datasets with a focus on speed. In addition `ptsuite` can 1) rapidly generate (large) Pareto data sets and 2) test if data is Pareto distributed. 
+Power law distributions, in particular Pareto distributions, describe data across diverse areas of study such as physics, astronomy, biology, economics and the social sciences. Real-world examples include distribution of wealth, word frequency in a given text, population in a city, stock market returns. In the present “Big Data” era, it is essential for programs to be optimized for speed and have the ability to handle large data sets. In particular, there are applications in genetics involving large data sets where power-law distributions describe network connectivity [@Zhang:2005]. We found some of the existing tail estimation packages in R are not optimized for speed especially when dealing with a large data set. The R-package `ptsuite` was developed to estimate the tail index for such (large) datasets with a focus on speed. In speed tests conducted, `ptsuite` outperformed similar R packages [@ptsuite:2019]. In addition `ptsuite` can 1) rapidly generate (large) Pareto data sets and 2) test if data is Pareto distributed. 
 
 # About `ptsuite`
 
@@ -55,7 +55,7 @@ Tail Index Estimation Classes [@Nair:2019; @Fedotenkov:2018]
 
 The package `ptsuite` has been used in scientific publications [@Munasinghe:2019]. The authors plan to use it in forthcoming research and hope that it will assist other researchers and students with its combination of features, speed and ease of use.
 
-The package `ptsuite` is available on Github and Centralized R Archive Network (CRAN): https://CRAN.R-project.org/package=ptsuite. Further technical details, test results (accuracy of the estimates, speed comparison with other packages etc.) and other relevant information can be found on the vignettes and ArXiv preprint documents [@ptsuite:2019].
+The package `ptsuite` is available on Github and Centralized R Archive Network (CRAN): https://CRAN.R-project.org/package=ptsuite. Further technical details, test results (accuracy of the estimates, speed comparison with other packages etc.) and other relevant information can be found on the vignettes and ArXiv preprint documents.
 
 # Acknowledgements
 
