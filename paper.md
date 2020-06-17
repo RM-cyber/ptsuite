@@ -13,7 +13,7 @@ authors:
   - name: Ranjiva Munasinghe^[Corresponding author]
     orcid: 0000-0002-4059-8735
     affiliation: "1, 2" 
-  - name: Pathum Kossinna^[Author Without ORCID]
+  - name: Pathum Kossinna
     affiliation: 3
  - name: Dovini Jayasinghe
    orcid: 0000-0001-5685-3967 
