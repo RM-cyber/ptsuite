@@ -15,9 +15,9 @@ authors:
     affiliation: "1, 2" 
   - name: Pathum Kossinna
     affiliation: 3
- - name: Dovini Jayasinghe
-   orcid: 0000-0001-5685-3967 
-   affiliation: 1
+  - name: Dovini Jayasinghe
+    orcid: 0000-0001-5685-3967 
+    affiliation: 1
 affiliations:
  - name: MIND Analytics & Management
    index: 1
