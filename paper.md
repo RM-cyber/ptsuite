@@ -1,5 +1,5 @@
 ---
-title:'ptsuite: An R-package for Fast Tail Index Estimation'
+title: 'ptsuite: An R-package for Fast Tail Index Estimation'
 tags:
   - R
   - power law distributions
