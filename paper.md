@@ -41,11 +41,11 @@ Features
 
 1. Generate Pareto data (random variates)
 2. QQ-plot (visual test for Pareto property)
-3. Pareto Test (statistical test for Pareto property)
+3. Pareto Test (statistical test for Pareto property) [@Gulati:2008]
 4. Various Tail Index Estimates (method classes listed below)
 5. Function to generate Estimates using all methods 
 
-Tail Index Estimation Classes
+Tail Index Estimation Classes [@Nair et al.:2019; @Fedotenkov:2018]
  
 1. Maximum Likelihood Methods
 2. Least Square Methods 
@@ -55,7 +55,7 @@ Tail Index Estimation Classes
 
 The package `ptsuite` has been used in scientific publications [@Munasinghe:2019]. The authors plan to use it in forthcoming research and hope that it will assist other researchers and students with its combination of features, speed and ease of use.
 
-The package `ptsuite` is available on Github and Centralized R Archive Network (CRAN): https://CRAN.R-project.org/package=ptsuite. Further technical details, test results (accuracy of the estimates, speed comparison with other packages etc.) and other relevant information can be found on the vignettes and ArXiv preprint documents.
+The package `ptsuite` is available on Github and Centralized R Archive Network (CRAN): https://CRAN.R-project.org/package=ptsuite. Further technical details, test results (accuracy of the estimates, speed comparison with other packages etc.) and other relevant information can be found on the vignettes and ArXiv preprint documents [@ptsuite:2019].
 
 # Acknowledgements
 
