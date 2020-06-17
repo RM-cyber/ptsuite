@@ -45,7 +45,7 @@ Features
 4. Various Tail Index Estimates (method classes listed below)
 5. Function to generate Estimates using all methods 
 
-Tail Index Estimation Classes [@Nair et al.:2019; @Fedotenkov:2018]
+Tail Index Estimation Classes [@Nair:2019; @Fedotenkov:2018]
  
 1. Maximum Likelihood Methods
 2. Least Square Methods 
