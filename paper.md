@@ -1,11 +1,11 @@
 ---
 title: 'ptsuite: An R-package for Fast Tail Index Estimation'
 tags:
-  - r
+  - R
   - power law distributions
   - fat tailed distributions
   - heavy tailed distributions
-  - Pareto distributions
+  - pareto distributions
   - tail index
   - tail estimation
   - fast computation 
@@ -53,7 +53,7 @@ Tail Index Estimation Classes
 4. Moment Estimators
 5. Hill Estimators
 
-The package`ptsuite` has been used in scientific publications [@Munasinghe et al:2019]. The authors plan to use it in forthcoming research and hope that it will assist other researchers and students with its combination of features, speed and ease of use.
+The package`ptsuite` has been used in scientific publications [@Munasinghe:2019]. The authors plan to use it in forthcoming research and hope that it will assist other researchers and students with its combination of features, speed and ease of use.
 
 The package `ptsuite` is available on Github and Centralized R Archive Network (CRAN): https://cran.r-project.org/web/packages/ptsuite/index.html. Further technical details, test results (accuracy of the estimates, speed comparison with other packages etc.) and other relevant information can be found on the vignettes and ArXiv preprint documents.
 
