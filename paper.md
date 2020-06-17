@@ -57,23 +57,6 @@ The package`ptsuite` has been used in scientific publications [@Munasinghe:2019]
 
 The package `ptsuite` is available on Github and Centralized R Archive Network (CRAN): https://cran.r-project.org/web/packages/ptsuite/index.html. Further technical details, test results (accuracy of the estimates, speed comparison with other packages etc.) and other relevant information can be found on the vignettes and ArXiv preprint documents.
 
-# Computational Details
-
-The technical specifications of the two computers used in the building and testing of this package are as follows: 
-
-Laptop
-CPU Intel(R) Core(TM) i5-8250U @ 1.60GHz, 1800 Mhz 
-RAM 4 Core(s), 8 Logical Processor(s) 8GB 
-OS Windows 10 Enterprise LTSC 10.0.17763 Build 17763 
-
-Desktop
-CPU Intel(R) Core(TM) i7-7700 @ 3.60GHz, 3601 Mhz RAM 4 Core(s), 8 Logical Processor(s) 32 GB OS Windows 10 Pro 10.0.17763 Build 17763 
-
-
-Testing and development was done using R 3.5.2. and Microsoft R 3.5.1 [@MicrosoftTeam:2017] with the ptsuite 1.0.0 package. R itself and all packages used are available from the Comprehensive R Archive Network (CRAN) at https://CRAN. R-project.org/. Microsoft R may be obtained from https://mran.microsoft.com/ open. R Studio V 1.1.423 [@RStudioTeam: 2016] was used as the IDE for all tasks related to package development and generating results. The packages devtools [@Wickham et al B: 2018) and roxygen2 (Wickham et al A:2018) were used to assist in package documentation and development. The Rcpp package [@Eddelbuettel and François: 2011; @Eddelbuettel 2013; @Eddelbuettel and Balamuta: 2017] was used in the compilation of C++ code used in all estimation functions of the package. Finally
-microbenchmark 1.4-4, ggplot2 3.0.0 [@Wickham: 2016] and plotly 4.8.0 were used in generating the results included in this paper. 
-
-
 # Acknowledgements
 
 We wish to acknowledge Dr. J. Nair for helpful advice and in providing unpublished material for our research and Prof. S. Gulati for sharing knowledge on the Goodness of Fit tests. D. J. would also like to acknowledge Prof. S. Banneheka for a very useful discussion on the WLS method of estimation. Financial support by MIND Analytics & Management.
