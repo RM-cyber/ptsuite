@@ -13,7 +13,9 @@ Instructions for Installation
 
 For Windows 64-bit operating system R for Windows version 3.6.0 
 
-RTools version 35 https://cran.r-project.org/bin/windows/Rtools/history.html
+Requires RTools 
+
+For R 3.6.0 use RTools version 35 https://cran.r-project.org/bin/windows/Rtools/history.html
 
 ```r
 >install.packages("devtools")
