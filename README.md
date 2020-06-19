@@ -3,9 +3,7 @@
 R package `ptsuite` for fast tail index estimation for large datasets
 
 
-Available at
-
-GitHub:https://github.com/RM-cyber/ptsuite
+GitHub: https://github.com/RM-cyber/ptsuite
 
 C-RAN: https://CRAN.R-project.org/package=ptsuite 
 
