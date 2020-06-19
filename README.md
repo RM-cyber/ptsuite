@@ -7,13 +7,15 @@ GitHub: https://github.com/RM-cyber/ptsuite
 
 C-RAN: https://CRAN.R-project.org/package=ptsuite 
 
-Instructions for Installation
+**Instructions for Installation**
 
-For Windows 64-bit operating system R for Windows version 3.6.0 
+Following instructions are for Windows 64-bit operating system R for Windows version 3.6.0 
 
 Requires RTools 
 
 For R 3.6.0 use RTools version 35 https://cran.r-project.org/bin/windows/Rtools/history.html
+
+Create a folder called .Renviron.txt in Documents folder  
 
 ```r
 > writeLines('PATH="${RTOOLS35_HOME}\\usr\\bin;${PATH}"', con = "~/.Renviron")
