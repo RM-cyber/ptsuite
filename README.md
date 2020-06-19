@@ -18,6 +18,14 @@ Requires RTools
 For R 3.6.0 use RTools version 35 https://cran.r-project.org/bin/windows/Rtools/history.html
 
 ```r
+> writeLines('PATH="${RTOOLS35_HOME}\\usr\\bin;${PATH}"', con = "~/.Renviron")
+> Sys.which("make")
+ ## "C:\\rtools35\\usr\\bin\\make.exe"
+```
+Please modify accordingly for later versions of R and corresponding RTools version
+
+To complete the installation
+```r
 >install.packages("devtools")
 >library(devtools)
 >install_github("RM-cyber/ptsuite", subdir="ptsuite")
