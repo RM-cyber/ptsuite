@@ -60,7 +60,7 @@ The package `ptsuite` is available on Github: https://github.com/RM-cyber/ptsuit
 
 # Acknowledgements
 
-We wish to acknowledge Dr. J. Nair for helpful advice and in providing unpublished material for our research and Prof. S. Gulati for sharing knowledge on the Goodness of Fit tests. D. J. would also like to acknowledge Prof. S. Banneheka for a very useful discussion on the WLS method of estimation. Financial support by MIND Analytics & Management.
+We wish to acknowledge Dr. J. Nair for helpful advice and in providing unpublished material for our research and Prof. S. Gulati for sharing knowledge on the Goodness of Fit tests. D. J. would also like to acknowledge Prof. S. Banneheka for a very useful discussion on the WLS method of estimation. 
 
 
 # References
