@@ -12,7 +12,7 @@ void negative_check(NumericVector dat){
 
   for(int i=0; i<dat.size(); i++){
     if(dat[i] <= 0 || Rcpp::internal::Rcpp_IsNA(dat[i]) == true){
-      stop("Data may not contain gative values, zeros or NAs.");
+      stop("Data may not contain negative values, zeros or NAs.");
     }
   }
 
